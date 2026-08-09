@@ -4,11 +4,12 @@ title: "Spectral quantum resilience: surface codes for machine-learning models o
 version: 1.0.0
 date-released: 2026-08-09
 type: software
+
 authors:
-  - family-names: Salgado Mondaca
-    given-names: Felipe Hernán
-  - family-names: Soto Gómez
-    given-names: Ismael
+  - family-names: "Salgado Mondaca"
+    given-names: "Felipe Hernán"
+  - family-names: "Soto Gómez"
+    given-names: "Ismael"
+
 license: MIT
-repository-code: "https://github.com/OWNER/REPOSITORY"
-doi: "DOI_PENDING"
+repository-code: "https://github.com/felipesalga/Cellular-Automaton-error-code"
