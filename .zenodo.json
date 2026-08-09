@@ -1,0 +1,26 @@
+{
+  "title": "Spectral quantum resilience: surface codes for machine-learning models of wildfire spread",
+  "upload_type": "software",
+  "description": "Executed notebook, GeoTIFF input, configuration, seeds, and numerical source tables supporting a computational proof of concept integrating CA, CNN, directed GNN, Transformer, rotated surface code, Stim, and MWPM/PyMatching.",
+  "creators": [
+    {
+      "name": "Salgado Mondaca, Felipe Hernán"
+    },
+    {
+      "name": "Soto Gómez, Ismael"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "wildfire",
+    "cellular automaton",
+    "CNN",
+    "GNN",
+    "Transformer",
+    "surface code",
+    "MWPM",
+    "remote sensing",
+    "spectral indices"
+  ],
+  "version": "1.0.0"
+}
