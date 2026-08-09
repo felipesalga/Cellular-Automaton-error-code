@@ -1,0 +1,6 @@
+Modelo,CNN,GNN,Transformer
+Fase,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1
+1. Inicial,0.98,0.94,0.943
+2. Expansión,0.985,0.947,0.974
+3. Avanzada,0.983,0.942,0.969
+4. Final,0.974,0.913,0.949

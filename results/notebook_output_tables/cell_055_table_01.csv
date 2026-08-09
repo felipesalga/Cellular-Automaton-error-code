@@ -1,0 +1,37 @@
+Unnamed: 0,Modelo,p_físico,Distancia,Condición,N_estados,Tasa_estados_con_alerta_falsa,FP_medio_por_estado,FP_total
+0,CNN,0.100%,3,Código de superficie + MWPM,170,11.8%,0.61,104
+1,CNN,0.100%,3,Sin decodificación,170,17.1%,0.64,108
+2,CNN,0.100%,5,Código de superficie + MWPM,170,11.8%,0.61,104
+3,CNN,0.100%,5,Sin decodificación,170,32.9%,0.79,134
+4,CNN,0.100%,7,Código de superficie + MWPM,170,11.8%,0.62,105
+5,CNN,0.100%,7,Sin decodificación,170,58.8%,1.22,207
+6,CNN,0.600%,3,Código de superficie + MWPM,170,19.4%,0.64,109
+7,CNN,0.600%,3,Sin decodificación,170,71.2%,1.51,257
+8,CNN,0.600%,5,Código de superficie + MWPM,170,18.2%,0.64,109
+9,CNN,0.600%,5,Sin decodificación,170,100.0%,8.56,1455
+10,CNN,0.600%,7,Código de superficie + MWPM,170,14.1%,0.64,108
+11,CNN,0.600%,7,Sin decodificación,170,100.0%,22.76,3869
+12,GNN dirigida,0.100%,3,Código de superficie + MWPM,170,8.8%,0.15,25
+13,GNN dirigida,0.100%,3,Sin decodificación,170,10.0%,0.18,31
+14,GNN dirigida,0.100%,5,Código de superficie + MWPM,170,8.8%,0.15,25
+15,GNN dirigida,0.100%,5,Sin decodificación,170,25.3%,0.41,69
+16,GNN dirigida,0.100%,7,Código de superficie + MWPM,170,8.8%,0.15,25
+17,GNN dirigida,0.100%,7,Sin decodificación,170,70.6%,1.31,223
+18,GNN dirigida,0.600%,3,Código de superficie + MWPM,170,11.8%,0.2,34
+19,GNN dirigida,0.600%,3,Sin decodificación,170,78.2%,1.86,316
+20,GNN dirigida,0.600%,5,Código de superficie + MWPM,170,11.2%,0.21,35
+21,GNN dirigida,0.600%,5,Sin decodificación,170,100.0%,15.39,2616
+22,GNN dirigida,0.600%,7,Código de superficie + MWPM,170,10.6%,0.18,30
+23,GNN dirigida,0.600%,7,Sin decodificación,170,100.0%,40.56,6895
+24,Transformer,0.100%,3,Código de superficie + MWPM,170,8.8%,0.18,30
+25,Transformer,0.100%,3,Sin decodificación,170,8.2%,0.17,29
+26,Transformer,0.100%,5,Código de superficie + MWPM,170,8.8%,0.18,30
+27,Transformer,0.100%,5,Sin decodificación,170,10.0%,0.15,26
+28,Transformer,0.100%,7,Código de superficie + MWPM,170,8.8%,0.18,30
+29,Transformer,0.100%,7,Sin decodificación,170,18.2%,0.29,49
+30,Transformer,0.600%,3,Código de superficie + MWPM,170,7.6%,0.15,26
+31,Transformer,0.600%,3,Sin decodificación,170,24.1%,0.32,55
+32,Transformer,0.600%,5,Código de superficie + MWPM,170,7.6%,0.16,28
+33,Transformer,0.600%,5,Sin decodificación,170,97.1%,4.08,694
+34,Transformer,0.600%,7,Código de superficie + MWPM,170,8.8%,0.17,29
+35,Transformer,0.600%,7,Sin decodificación,170,100.0%,15.29,2600

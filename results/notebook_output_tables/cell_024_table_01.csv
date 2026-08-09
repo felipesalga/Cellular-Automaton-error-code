@@ -1,0 +1,4 @@
+Unnamed: 0,Modelo,Umbral_entrenamiento,Probabilidad_media_test
+0,CNN,0.875,0.0551
+1,Transformer,0.9,0.0331
+2,GNN dirigida,0.8,0.0701

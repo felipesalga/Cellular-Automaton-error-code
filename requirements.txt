@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+rasterio==1.5.0
+affine
+stim==1.16.0
+pymatching

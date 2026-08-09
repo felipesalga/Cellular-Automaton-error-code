@@ -1,0 +1,4 @@
+Unnamed: 0,Modelo,Delta_F1,Mejora_relativa_F1,Delta_IoU,Mejora_relativa_IoU,Delta_Balanced_accuracy,Mejora_relativa_Balanced_accuracy,Delta_Precision,Mejora_relativa_Precision,Delta_Recall,Mejora_relativa_Recall,Delta_AUC,Mejora_relativa_AUC,Delta_AUC_PR,Mejora_relativa_AUC_PR
+0,CNN,0.109,+36.2%,0.081,+45.6%,0.069,+8.1%,0.08,+41.9%,0.132,+18.1%,0.005,+0.5%,0.166,+76.8%
+1,GNN,0.002,+0.6%,0.001,+0.7%,-0.066,-7.7%,0.014,+7.4%,-0.138,-19.0%,-0.03,-3.0%,-0.007,-3.1%
+2,Transformer,0.127,+42.1%,0.095,+53.7%,-0.0,-0.0%,0.116,+61.0%,-0.013,-1.7%,-0.011,-1.2%,0.14,+64.7%

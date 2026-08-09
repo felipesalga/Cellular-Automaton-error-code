@@ -1,0 +1,4 @@
+Unnamed: 0,Modelo,Verdaderos_positivos,Falsos_positivos,Falsos_negativos,IoU_acumulado,Fracción_predicha,Fracción_referencia
+1,GNN,54,29,3,0.628,20.8%,14.2%
+0,CNN,49,49,8,0.462,24.5%,14.2%
+2,Transformer,40,30,17,0.46,17.5%,14.2%

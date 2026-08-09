@@ -1,0 +1,9 @@
+Unnamed: 0,Modelo_normalizado,p_físico_num,N_distancias,Distancias,N_filas
+0,CA,0.100%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+1,CA,0.600%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+2,CNN,0.100%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+3,CNN,0.600%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+4,GNN,0.100%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+5,GNN,0.600%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+6,Transformer,0.100%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3
+7,Transformer,0.600%,3,"[np.int64(3), np.int64(5), np.int64(7)]",3

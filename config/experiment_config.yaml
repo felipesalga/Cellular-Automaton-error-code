@@ -1,0 +1,31 @@
+release: v1.0.0-paper
+general_seed: 42
+geotiff:
+  filename: HerbaceousVegetation_723.tif
+  bands: 13
+  original_shape: [64, 64]
+  crs: EPSG:32630
+cellular_automaton:
+  grid: 20
+  steps: 16
+  runs: 20
+  training_runs: 14
+  test_runs: 6
+  base_spread: 0.30
+  spontaneous_ignition: 0.00005
+machine_learning:
+  epochs: 20
+  batch_size: 8
+  learning_rate: 0.002
+  training_seeds: [42, 43, 44, 45, 46]
+qec:
+  simulator: Stim
+  decoder: PyMatching_MWPM
+  quantization_bits: 8
+  physical_error_probability: 0.006
+  code_distance: 7
+  shots_per_seed: 20000
+  seeds: [42026, 42027, 42028, 42029, 42030]
+bootstrap:
+  hierarchical_replicates: 10000
+  base_seed: 20260809

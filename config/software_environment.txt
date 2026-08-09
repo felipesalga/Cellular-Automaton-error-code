@@ -1,0 +1,8 @@
+Execution platform: Google Colab
+Python: 3.x
+Rasterio: 1.5.0
+Stim: 1.16.0
+Core libraries: NumPy, pandas, SciPy, scikit-learn, Matplotlib, PyTorch, Rasterio, Affine, Stim, PyMatching
+
+Exact transitive dependency versions should be captured from the publication runtime with:
+python -m pip freeze > requirements-lock.txt

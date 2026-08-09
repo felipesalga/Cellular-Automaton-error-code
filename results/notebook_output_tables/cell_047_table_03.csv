@@ -1,0 +1,6 @@
+Condición,Con errores,Sin errores,Pérdida_por_error
+Modelo,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1
+CA,0.572,0.971,0.399
+CNN,0.678,0.979,0.301
+GNN,0.642,0.947,0.305
+Transformer,0.608,0.85,0.242

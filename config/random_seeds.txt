@@ -1,0 +1,5 @@
+General experiment seed: 42
+Neural-network training seeds: 42, 43, 44, 45, 46
+QEC seeds: 42026, 42027, 42028, 42029, 42030
+Hierarchical bootstrap base seed: 20260809
+Training-summary bootstrap seed: 2026

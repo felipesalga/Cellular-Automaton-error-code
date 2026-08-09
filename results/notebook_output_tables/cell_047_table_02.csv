@@ -1,0 +1,9 @@
+Unnamed: 0,Modelo,Condición,N_corridas,AUC_medio,Desviación_estándar,Error_estándar,IC95_inferior,IC95_superior
+0,CA,Con errores,6,0.572,0.02,0.008,0.556,0.588
+1,CNN,Con errores,6,0.678,0.012,0.005,0.668,0.687
+2,GNN,Con errores,6,0.642,0.015,0.006,0.63,0.653
+3,Transformer,Con errores,6,0.608,0.105,0.043,0.523,0.692
+4,CA,Sin errores,6,0.971,0.006,0.002,0.967,0.976
+5,CNN,Sin errores,6,0.979,0.009,0.004,0.972,0.986
+6,GNN,Sin errores,6,0.947,0.034,0.014,0.92,0.974
+7,Transformer,Sin errores,6,0.85,0.201,0.082,0.69,1.0

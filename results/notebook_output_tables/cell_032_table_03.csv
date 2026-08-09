@@ -1,0 +1,4 @@
+Unnamed: 0,Modelo,AUC_global_medio,Desviación_estándar,Evaluaciones_válidas,Evaluaciones_sin_dos_clases
+0,CNN,0.981,0.016,62,34
+2,Transformer,0.959,0.067,62,34
+1,GNN,0.938,0.081,62,34

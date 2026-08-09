@@ -1,0 +1,13 @@
+Unnamed: 0,Modelo,Fase,AUC_medio,Desviación_estándar,N_válidos,Error_estándar,IC95_inferior,IC95_superior
+0,CNN,1. Inicial,0.98,0.011,21,0.002,0.975,0.985
+1,GNN,1. Inicial,0.94,0.058,21,0.013,0.916,0.965
+2,Transformer,1. Inicial,0.943,0.085,21,0.018,0.907,0.979
+3,CNN,2. Expansión,0.985,0.01,16,0.003,0.98,0.99
+4,GNN,2. Expansión,0.947,0.033,16,0.008,0.931,0.963
+5,Transformer,2. Expansión,0.974,0.027,16,0.007,0.961,0.988
+6,CNN,3. Avanzada,0.983,0.014,16,0.003,0.976,0.99
+7,GNN,3. Avanzada,0.942,0.123,16,0.031,0.881,1.0
+8,Transformer,3. Avanzada,0.969,0.055,16,0.014,0.942,0.996
+9,CNN,4. Final,0.974,0.03,9,0.01,0.954,0.994
+10,GNN,4. Final,0.913,0.104,9,0.035,0.845,0.981
+11,Transformer,4. Final,0.949,0.09,9,0.03,0.891,1.0
