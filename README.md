@@ -41,7 +41,7 @@ The publication configuration uses 20 propagation runs (14 training and 6 test),
 
 ## Citation
 
-Use the DOI assigned to release `v1.0.0-paper` in Zenodo. The metadata are provided in `CITATION.cff` and `.zenodo.json`. Replace `DOI_PENDING` after Zenodo processes the release.
+Use the DOI assigned to release `v1.0.0-paper` in Zenodo. The metadata are provided in `CITATION.cff` and `.zenodo.json`. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21864755.svg)](https://doi.org/10.5281/zenodo.21864755)
 
 ## Licenses
 
